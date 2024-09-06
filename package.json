@@ -32,7 +32,7 @@
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-loading": "^2.0.3",
-    "react-redux": "^5.0.7",
+    "react-redux": "^5.1.0",
     "react-router-dom": "^5.0.1",
     "react-stripe-checkout": "^2.6.3",
     "react-stripe-elements": "^5.0.0",
@@ -41,7 +41,7 @@
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
     "sequelize": "^4.44.3",
-    "stripe": "^7.9.0"
+    "stripe": "^8.213.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
